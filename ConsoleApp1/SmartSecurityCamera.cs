@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace real
 {
-    internal class SmartSecurityCamera
+    internal class SmartSecurityCamera : SmartDevice
     {
     }
 }

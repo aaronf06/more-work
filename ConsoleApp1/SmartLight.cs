@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace real
 {
-    internal class SmartLight
+    internal class SmartLight : SmartDevice 
     {
     }
 }
