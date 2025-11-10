@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36511.14 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "real", "ConsoleApp1\real.csproj", "{51FC303D-36DC-4BEB-A5D2-A0D05ABEBB38}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "smarthomecontrollers", "ConsoleApp1\smarthomecontrollers.csproj", "{51FC303D-36DC-4BEB-A5D2-A0D05ABEBB38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
